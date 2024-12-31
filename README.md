@@ -1,1 +1,3 @@
-# planilha_inteligente
+# Planilha Inteligente
+
+Planilha utilizada para controle financeiro. Dados fictícios.
